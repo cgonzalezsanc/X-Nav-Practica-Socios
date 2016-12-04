@@ -1,0 +1,37 @@
+{
+	"items": [
+		{
+			"autor": "Ana",
+			"avatar": "avatares/verde.png",
+			"titulo": "RE: Quedada",
+			"contenido": "Pues podemos quedar este viernes",
+			"fecha": "25-11-2016 21:17:08"
+		},
+		{
+			"autor": "Patrocinador",
+			"avatar": "avatares/rosa.png",
+			"titulo": "Promoción",
+			"contenido": "¡Consigue dos entradas para el Toledo-Socuéllamos! El que responda más rápido se las lleva",
+			"fecha": "26-11-2016 03:07:21"
+		},
+		{
+			"autor": "Bot para las promociones",
+			"avatar": "avatares/blanco.png",
+			"titulo": "RE: Promoción",
+			"contenido": "Hola, me gustaría participar en la promoción",
+			"fecha": "26-11-2016 03:07:23"
+		},
+		{
+			"autor": "Paco",
+			"avatar": "avatares/azul.png",
+			"titulo": "RE: Promocion",
+			"contenido": "No deberíais dejar participar a los bots...",
+			"fecha": "26-11-2016 09:10:23"
+		}
+	]
+}
+
+
+
+
+

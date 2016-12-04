@@ -1,0 +1,39 @@
+{
+	"items": [
+		{
+			"autor": "Gertrudis",
+			"avatar": "avatares/negro.png",
+			"titulo": "Presentacion",
+			"contenido": "¡Hola a todos!",
+			"fecha": "23-11-2016 19:30:21"
+		},
+		{
+			"autor": "Carlos",
+			"avatar": "avatares/rojo.png",
+			"titulo": "RE: Presentacion",
+			"contenido": "Hola Gertrudis, encantado de conocerte",
+			"fecha": "23-11-2016 23:41:52"
+		},
+		{
+			"autor": "Ana",
+			"avatar": "avatares/verde.png",
+			"titulo": "Quedada",
+			"contenido": "Podíamos quedar algún dia todos juntos",
+			"fecha": "25-11-2016 09:47:01"
+		},
+		{
+			"autor": "Paco",
+			"avatar": "avatares/azul.png",
+			"titulo": "RE: Quedada",
+			"contenido": "Me parece una idea estupenda",
+			"fecha": "25-11-2016 13:32:11"
+		},
+		{
+			"autor": "Pepe",
+			"avatar": "avatares/amarillo.png",
+			"titulo": "RE: Quedada",
+			"contenido": "Vale, pero la semana que viene yo no puedo",
+			"fecha": "25-11-2016 18:30:05"
+		}
+	]
+}

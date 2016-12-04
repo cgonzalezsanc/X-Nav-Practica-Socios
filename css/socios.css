@@ -1,0 +1,24 @@
+header {
+	width: 600px;
+	height: 60px;
+	background-color: blue;
+	text-align: center;
+	margin: auto;
+	border-radius: 5px;
+	color: white;
+}
+
+#notificaciones {
+	width: 200px;
+	height: 40px;
+	margin: auto;
+	text-align: center;
+	color: red;
+	font-weight: bold;
+}
+
+#mensajes .cabecera img {
+	width: 20px;
+	height: 20px;
+}
+
